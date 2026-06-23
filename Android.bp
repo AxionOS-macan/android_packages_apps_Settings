@@ -134,6 +134,7 @@ android_library {
         // Lineage dependencies
         "org.lineageos.platform.internal",
         "LineagePreferenceLib",
+        "vendor.oplus.hardware.touch-V2-java",
 
         // Axion dependencies
         "ax_compose",
